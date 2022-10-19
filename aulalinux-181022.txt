@@ -1,0 +1,29 @@
+#01_ MinUpdate
+    a) Atualizar     -->apt  --> sources.list
+    b) Repositorios  -->apt  --> sources.list
+       (=Diretorio)
+    c) PESQUISAR O QUE É PPA'S
+    d) Instalar atualizacao
+
+
+
+#02_ Instalacao dos convidados do VirtualBOX
+    a) Dispositivos
+            Inserir imagem do CD dos convidados
+        
+#03_ Atualizando via linha comando
+    PESQUISAR O QUE É BASH
+    PESQUISAR O QUE E SHELL
+    PESQUISAR O QUE É APT-GET
+    PESQUISAR O QUE É SUDO
+    
+    sudo apt update       --> MintUpdate Atualizar
+    sudo apt upgrade      --> MindtUpdate Instalar
+    sudo apt ful-upgrade
+    sudo apt dist-upgrade
+    sudo apt autoremove
+    sudo apt autoclean
+    sudo apt clean
+    history
+    
+    Tecla de atalho para limpar a tela  --> ctrl + i + L
